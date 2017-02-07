@@ -1,7 +1,7 @@
 # Dynamic-EON-Simulator
 
 This is a tool developed in OMNET++ for simulation of dynamic behaviour of Elastic Optical Networks. 
-This code is released under Apache 2.0 copyright agreement. 
+This code is released under Apache 2.0 copyright agreement. If you want to use/customize this tool and generate results for publications, it is needed to cite the tool on references and acknowledge it on the acknowledgement section.   
 
 Copyright [2017] [Pouria Sayyad Khodashenas]
 
