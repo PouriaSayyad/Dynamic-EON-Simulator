@@ -1,6 +1,6 @@
 # Dynamic-EON-Simulator
 
-This tool has been developed with OMNET++ (an extensible, modular, component-based C++ simulation) for simulation of dynamic behaviour of elastic optical networks and WDM/DWDM systems. The code is released under the Apache 2.0 copyright agreement. Please feel free to contibute on it to make it more realistic for modeling the behaviour of elastic optical networks and WDM/DWDM systems. If you want to use/customize the tool and generate results for publications, please keep in mind that it is necessary to cite the tool on the references and acknowledge it on the acknowledgement section of your paper.   
+This tool has been developed with OMNET++ (an extensible, modular, component-based C++ simulation) for simulation of dynamic behaviour of elastic optical networks and WDM/DWDM systems. The code is released under the Apache 2.0 copyright agreement. Please feel free to contibute on it to make it more realistic for modeling the behaviour of elastic optical networks and WDM/DWDM systems. If you want to use/customize the tool and generate results for publications, please keep in mind that it is necessary to cite the tool on the references and acknowledge it on the acknowledgement section of your publication. No commercial use is permitted.   
 
 Copyright [2017] [Pouria Sayyad Khodashenas]
 
